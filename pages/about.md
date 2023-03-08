@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Hello there!
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I'm a student, who graduated computer science and game design at DigiPen Institute of Technology. My love through video games made me look forward to be a game developer, and here I am!
+I have 4+ years of C/C++ experience among with game engines such as Unity, Unreal Engine 4, and Unreal Engine 5. During school I went through several academic game projects with various students among with my personal projects. My main roll was on AI and gameplay programming, sometimes a designer. Always excited to make something new!
