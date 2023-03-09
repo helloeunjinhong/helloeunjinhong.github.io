@@ -11,11 +11,15 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Scrap and Battery',   url: 'proj-1'}
+- {name: 'Isolation',   url: 'proj-2'}
+- {name: 'Grappling Hook Prototype', url: 'proj-3'}
+- {name: 'Club Wrecker (Prototype)',  url: 'proj-4'}
+- {name: 'P.U.P.P.I.T',  url: 'proj-5'}
+- {name: '3D OpenGL Project',  url: 'proj-6'}
+- {name: 'Pathfinding Project',  url: 'proj-7'}
+- {name: 'Terrain Analysis Project',  url: 'proj-8'}
+- {name: 'MaG+NeT',  url: 'proj-9'}
 
 #-------------------------------
 # Contact Section
