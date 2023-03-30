@@ -10,7 +10,7 @@ permalink: /about/
 <img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Eunjin Hong" width="400">
 
 ## Hello There!
-**_Eunjin Hong_**, a passionate **software engineer** focused on **AI** and **game development**. Also that one huge nerd who's a *cartoon/anime enthusiast*, *movie enjoyer*, and of course, a *gamer*.
+**_Eunjin Hong_**, a passionate **software engineer** focused on **AI** and **game development**. Also that one huge nerd who's a *cartoon/anime enthusiast*, a *movie enjoyer*, and of course, a *gamer*.
 
 
 ### contact
