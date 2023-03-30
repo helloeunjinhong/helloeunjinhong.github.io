@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Eunjin Hong" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Eunjin Hong" width="500">
 
 # About
 
@@ -19,4 +19,4 @@ hello.eunjinhong@gmail.com / (+1) 206.928.2947
 
 
 #### resume
-[download]("/assets/resume/EunjinHong_RESUME.pdf")
+[download]("https://helloeunjinhong.github.io/assets/resume/EunjinHong_RESUME.pdf")
