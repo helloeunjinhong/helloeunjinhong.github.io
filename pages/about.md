@@ -7,10 +7,9 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Eunjin Hong" width="500">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Eunjin Hong" width="400">
 
-# About
-
+## Hello There!
 **Eunjin Hong**, a passionate software engineer, movie-enjoyer, and of course, a gamer. 
 
 
