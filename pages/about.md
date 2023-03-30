@@ -19,4 +19,4 @@ hello.eunjinhong@gmail.com / (+1) 206.928.2947
 
 
 #### resume
-[download]("https://helloeunjinhong.github.io/assets/resume/EunjinHong_RESUME.pdf")
+[download](../assets/resume/EunjinHong_RESUME.pdf)
