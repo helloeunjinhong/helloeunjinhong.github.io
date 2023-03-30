@@ -12,10 +12,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About/Resume
     url: /about
-  - title: Contact
-    url: /contact
+#  - title: Contact
+#    url: /contact
 #  - title: Feed
 #    url: /feed.xml
 email: helloeunjinhong@gmail.com
