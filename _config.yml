@@ -47,18 +47,18 @@ service_worker: true
 markdown: kramdown
 highlighter: rouge # or pygments or null
 #theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
-exclude:
-  - README.md
-  - node_modules
-  - script
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - npm-debug.log
-  - gulpfile.js
-  - sleek.jpg
+#exclude:
+#  - README.md
+#  - node_modules
+#  - script
+#  - package.json
+#  - package-lock.json
+#  - Gemfile
+#  - Gemfile.lock
+#  - vendor
+#  - npm-debug.log
+#  - gulpfile.js
+#  - sleek.jpg
 
 include: ['_pages']
 permalink: /:title/
