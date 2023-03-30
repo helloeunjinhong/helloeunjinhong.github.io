@@ -2,9 +2,11 @@
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <body class="has-push-menu">
-        {% include minutes-to-read.html %}
+        <!-- 
+{% include minutes-to-read.html %}
         {% include svg-icons.html %}
-        {% include header.html %}
+-->
+       {% include header.html %}
 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
@@ -76,6 +78,7 @@
             {% include modal.html title="Don't go yet!" subtitle="You may also like..." closed=true showOnExit=true %}
         {% endif %}
 
+        <!--
         {% include subscription.html %}
         {% include share.html %}
         {% include author.html %}
@@ -103,6 +106,8 @@
         {% if author.linkedin_username %}
             {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
         {% endif %}
+        -->
+        
         {% if page.math %}
         <script>
             MathJax = {
