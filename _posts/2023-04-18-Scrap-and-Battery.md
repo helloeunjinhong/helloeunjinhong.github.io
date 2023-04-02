@@ -13,7 +13,6 @@ category: blog
 tags:
   - welcome
   - blog
-author: Eunjin Hong
 paginate: true
 ---
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
