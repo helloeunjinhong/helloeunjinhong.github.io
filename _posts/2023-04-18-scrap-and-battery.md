@@ -1,5 +1,5 @@
 ---
-date: 2023-04-18 23:48:05
+date: 2023-04-01T23:48:05.000Z
 layout: post
 title: Scrap and Battery
 subtitle: '3D, third person run and gun game implemented with Unreal Engine 5'
@@ -17,8 +17,6 @@ author: mranderson
 paginate: true
 ---
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
-
-{% include image.html image="projects/proj-1/ScrapNBattery1.png" %}
 
 #### Summary
 Role : AI Programmer & Art Lead \
@@ -40,9 +38,4 @@ I was the Game AI programmer, created main framework of state machines and behav
 - Implemented enemy animations using UE5 animation blueprints.
 - Collaborated with 2 gameplay programmers, designing concept and flow of the gameplay, along with enemy designs.
 - Took responsibility and guided the environment and character visuals as an art lead by finding and implementing assets.
-
-
-![ScrapNBattery2](https://helloeunjinhong.github.io/assets/img/projects/proj-1/ScrapNBattery2.png)
-![ScrapNBattery3](https://helloeunjinhong.github.io/assets/img/projects/proj-1/ScrapNBattery4.png)
-![ScrapNBattery4](https://helloeunjinhong.github.io/assets/img/projects/proj-1/ScrapNBattery5.png)
 
