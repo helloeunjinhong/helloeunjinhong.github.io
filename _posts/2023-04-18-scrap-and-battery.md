@@ -1,5 +1,5 @@
 ---
-date: 2023-04-18T23:48:05.000Z
+date: 2023-04-18 23:48:05
 layout: post
 title: Scrap and Battery
 subtitle: '3D, third person run and gun game implemented with Unreal Engine 5'
@@ -13,6 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
+author: helloeunjinhong
 paginate: true
 ---
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
