@@ -11,9 +11,9 @@ optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: solo_project
 tags:
-  - unity
-  - c\#
-  - 2d
+  - Unity
+  - C\#
+  - 2D
   - game
   - personal
   - prototype
