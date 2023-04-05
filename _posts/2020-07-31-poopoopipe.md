@@ -13,9 +13,11 @@ category: team_project
 tags:
   - custom_engine
   - C++
-  - 2d
+  - 2D
   - game
   - academic
+  - programmer
+  - designer
 author: mranderson
 paginate: true
 ---
