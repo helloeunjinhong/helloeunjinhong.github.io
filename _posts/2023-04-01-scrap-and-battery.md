@@ -11,9 +11,9 @@ optimized_image: >-
   assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1-1.png
 category: team_project
 tags:
-  - ue5
-  - c++
-  - 3d
+  - UE5
+  - C++
+  - 3D
   - game
   - academic
   - programmer
