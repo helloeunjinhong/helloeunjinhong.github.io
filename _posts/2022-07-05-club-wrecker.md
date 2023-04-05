@@ -12,7 +12,7 @@ optimized_image: >-
 category: solo_project
 tags:
   - unity
-  - c#
+  - c\#
   - 2d
   - game
   - personal
