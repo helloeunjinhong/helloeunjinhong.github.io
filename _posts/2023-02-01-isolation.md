@@ -15,7 +15,6 @@ tags:
   - c++
   - 3d
   - game
-  - academic
   - personal
 author: mranderson
 paginate: true
