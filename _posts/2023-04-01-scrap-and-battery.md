@@ -8,7 +8,7 @@ description: >-
 image: >-
   assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1.png
 category: team_project
 tags:
   - welcome
