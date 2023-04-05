@@ -6,9 +6,9 @@ subtitle: '3D, third person run and gun game implemented with Unreal Engine 5'
 description: >-
   3D, third person run and gun game implemented with Unreal Engine 5
 image: >-
-  https://asset.cloudinary.com/dsu6ldumc/4d4a172b32ad04539fe292abc4285ab1
+  https://i.imgur.com/FO2wCBl.jpg
 optimized_image: >-
-  https://asset.cloudinary.com/dsu6ldumc/4d4a172b32ad04539fe292abc4285ab1
+  https://i.imgur.com/vWSxxRw.jpg
 category: team_project
 tags:
   - UE5
