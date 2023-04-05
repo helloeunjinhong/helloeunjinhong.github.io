@@ -6,9 +6,9 @@ subtitle: '3D, third person run and gun game implemented with Unreal Engine 5'
 description: >-
   3D, third person run and gun game implemented with Unreal Engine 5
 image: >-
-  assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1.png
+  https://asset.cloudinary.com/dsu6ldumc/4d4a172b32ad04539fe292abc4285ab1
 optimized_image: >-
-  assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1-1.png
+  https://asset.cloudinary.com/dsu6ldumc/4d4a172b32ad04539fe292abc4285ab1
 category: team_project
 tags:
   - UE5
