@@ -12,6 +12,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Team Projects
+    url: https://helloeunjinhong.github.io/category/team_project
+  - title: Solo Projects
+    url: https://helloeunjinhong.github.io/category/solo_project
   - title: About/Resume
     url: /about
 #  - title: Contact
