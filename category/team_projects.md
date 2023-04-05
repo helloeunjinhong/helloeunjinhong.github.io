@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Team Projects
-slug: team projects
+slug: team_projects
 description: A category for team projects
 ---
 
