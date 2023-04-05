@@ -8,7 +8,7 @@ description: >-
 image: >-
   assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1.png
 optimized_image: >-
-  assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1.png
+  assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1-1.png
 category: team_project
 tags:
   - welcome
