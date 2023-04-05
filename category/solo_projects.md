@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Solo Projects
-slug: solo projects
+slug: solo_projects
 description: A category for solo projects
 ---
