@@ -11,8 +11,12 @@ optimized_image: >-
   assets/img/prj/2023-04-01-scrap-and-battery/ScrapNBattery1-1.png
 category: team_project
 tags:
-  - welcome
-  - blog
+  - ue5
+  - c++
+  - 3d
+  - game
+  - academic
+  - programmer
 author: mranderson
 paginate: true
 ---
