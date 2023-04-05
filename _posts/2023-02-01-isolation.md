@@ -16,6 +16,8 @@ tags:
   - 3d
   - game
   - personal
+  - programmer
+  - designer
 author: mranderson
 paginate: true
 ---
