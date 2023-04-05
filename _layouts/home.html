@@ -33,12 +33,19 @@ layout: main
             </div>
         </section>
     {% endif %}
-	<!-- Hero2 -->
-	<section class="hero">
-            <div class="hero-inner">
-                <h1>My awesome website</h1>
-                <h2>Look at this website and bask in its amazing glory!</h2>
-                <a href="https://helloeunjinhong.github.io/about" class="btn">Go ahead...</a>
+	<!-- Hero2 --> 
+	<section class="hero" style="background-image: url(https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg)">
+            <div class="pixels"></div>
+            <div class="gradient"></div>
+            <div class="content">
+                <h1 class="title">Hello there!</h1>
+                <p class="description">welcome to Eunjin's portfolio website</p>
+                <div class="buttons">
+                    <a href="https://helloeunjinhong.github.io/about" role="button" class="button">
+                        <svg><use xlink:href="#icon-read"></use></svg>
+                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                    </a>
+                </div>
             </div>
         </section>
     <!-- Posts -->
