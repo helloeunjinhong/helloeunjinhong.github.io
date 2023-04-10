@@ -14,7 +14,7 @@ permalink: /about/
 
 
 ### contact
-hello.eunjinhong@gmail.com / (+1) 206.928.2947
+hello.eunjinhong@gmail.com
 
 
 ### resume
