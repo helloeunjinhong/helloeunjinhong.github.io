@@ -31,7 +31,7 @@ paginate: true
 #### Summary
 * **Role** :  AI Programmer & Art Lead 
 * **Engine** : Unreal Engine 5
-* **Language** : C++ | UE5 Blueprints
+* **Language** : C++ / UE5 Blueprints
 * **Team Size** : 8 programmers 
 * **Genre** : 3D Third Person Run and Gun 
 * **Development Period** : September 2022 - March 2023
