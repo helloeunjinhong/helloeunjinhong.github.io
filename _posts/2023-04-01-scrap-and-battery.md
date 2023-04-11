@@ -21,6 +21,7 @@ author: mranderson
 paginate: true
 ---
 
+{% include youtube.html id="PRgN2j7IhcA" %}
 
 [![gameplayscrapnbattery](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif)](https://www.youtube.com/watch?v=PRgN2j7IhcA)
 
