@@ -16,6 +16,3 @@ permalink: /about/
 ### contact
 hello.eunjinhong@gmail.com
 
-
-### resume
-[download](../assets/resume/EunjinHong_RESUME.pdf)
