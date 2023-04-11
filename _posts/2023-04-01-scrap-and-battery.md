@@ -24,7 +24,7 @@ paginate: true
 
 ![gameplayscrapnbattery](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif)
 
-
+### Description
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
 
 #### Summary
