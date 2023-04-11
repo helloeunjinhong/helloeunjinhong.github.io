@@ -28,9 +28,12 @@ paginate: true
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
 
 #### Summary
-Role : AI Programmer & Art Lead \
-Team Size : 8 programmers \
-Engine : Unreal Engine 5 | Blueprints
+* **Role** :  AI Programmer & Art Lead 
+* **Engine** : Unreal Engine 5
+* **Language** : C++ | UE5 Blueprints
+* **Team Size** : 8 programmers 
+* **Genre** : 3D Third Person Run and Gun 
+* **Development Period** : September 2022 - March 2023
 
 
 #### About the Game
