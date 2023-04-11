@@ -21,9 +21,8 @@ author: mranderson
 paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRgN2j7IhcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![gameplayscrapnbattery](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif)
+[![gameplayscrapnbattery(https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif)]]https://www.youtube.com/watch?v=PRgN2j7IhcA
 
 ### Description
 3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
