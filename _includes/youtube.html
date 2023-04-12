@@ -1,3 +1,4 @@
+<!--
 <div class="embed-container">
     <iframe width="640" height="360" 
     src="https://www.youtube.com/embed/{{ include.id }}" 
@@ -21,3 +22,32 @@
   height: 100%;
 }
 </style>
+-->
+
+<div class="video">
+    <div class="video-ratio">
+        <iframe src="https://www.youtube.com/embed/{{ include.id }}" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<style>
+.video{
+  max-width: 640px;
+}
+    
+.video-ratio{
+  height: 0;
+  padding-top: 56.25%;
+  position: relative;
+}
+    
+.video iframe,
+.video object,
+.video embed {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+    
