@@ -8,7 +8,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/dsu6ldumc/image/upload/c_crop,h_399,w_760/v1680694175/Project/ScrapNBattery/ScrapNBattery1_szhxso.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_380/c_crop,h_200,w_380/v1680694175/Project/ScrapNBattery/ScrapNBattery1-1_ofpknp.jpg
+  https://res.cloudinary.com/dsu6ldumc/image/upload/c_crop,h_399,w_760/v1680694175/Project/ScrapNBattery/ScrapNBattery1_szhxso.jpg
 category: team_project
 tags:
   - UE5
