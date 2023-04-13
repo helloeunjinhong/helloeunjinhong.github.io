@@ -34,7 +34,7 @@ paginate: true
 
 
 ### About the Game
-
-
+will be updated
 
 ### Work I've Done
+will be updated
