@@ -6,9 +6,9 @@ subtitle: '2D puzzle game implemented with custom engine'
 description: >-
   2D puzzle game prototype implemented with Unity
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+
 category: team_project
 tags:
   - custom_engine
