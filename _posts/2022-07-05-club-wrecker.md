@@ -28,6 +28,7 @@ paginate: true
 * **Role** :  Programmer
 * **Engine** : Unity
 * **Language** : C#
+* **Team Size** : Solo Project
 * **Development Period** : April 2022 - July 2022
 
 
