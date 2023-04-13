@@ -6,9 +6,9 @@ subtitle: '2D puzzle game implemented with custom engine.'
 description: >-
   2D puzzle game prototype implemented with custom engine.
 image: >-
-  assets/img/off.jpg
+    https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_760/c_crop,h_399,w_760/v1681363641/Project/PooPooPiPe/PooPooPipe_2020-07-13_19-51-14.mp4_000014603_ysj712.png
 optimized_image: >-
-  assets/img/off.jpg
+    https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_760/c_crop,h_399,w_760/v1681363641/Project/PooPooPiPe/PooPooPipe_2020-07-13_19-51-14.mp4_000014603_ysj712.png
 category: team_project
 tags:
   - custom_engine
@@ -21,12 +21,14 @@ tags:
 author: mranderson
 paginate: true
 ---
+![poopoopipe1](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681363641/Project/PooPooPiPe/PooPooPipe_2020-07-13_19-51-14.mp4_000014603_ysj712.png)
+![poopoopipe2](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681363641/Project/PooPooPiPe/PooPooPipe_2020-07-13_19-51-14.mp4_000030055_astk1l.png)
 
 ### Description
-2D pipe connecting puzzle game implemented with custom engine
+**PooPooPiPe** is a 2D pipe connecting puzzle game implemented with custom engine.
 
 ### Summary
-* **Role** :  Audio Programmer & Level Designer
+* **Role** :  Programmer & Level Designer
 * **Engine** : Custom Engine
 * **Language** : C++
 * **Team Size** : 4 programmers 
