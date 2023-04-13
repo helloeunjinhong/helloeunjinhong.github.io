@@ -2,9 +2,9 @@
 date: 2023-04-01 23:48:05
 layout: post
 title: Scrap and Battery
-subtitle: '3D, third person run and gun game implemented with Unreal Engine 5'
+subtitle: '3D, third person run and gun game implemented with Unreal Engine 5.'
 description: >-
-  3D, third person run and gun game implemented with Unreal Engine 5
+  3D, third person run and gun game implemented with Unreal Engine 5.
 image: >-
   https://res.cloudinary.com/dsu6ldumc/image/upload/c_crop,h_399,w_760/v1680694175/Project/ScrapNBattery/ScrapNBattery1_szhxso.jpg
 optimized_image: >-
