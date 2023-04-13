@@ -2,9 +2,9 @@
 date: 2023-02-01 23:48:05
 layout: post
 title: Isolation
-subtitle: '3D, first person horror game implemented with Unreal Engine 5'
+subtitle: '3D, first person horror game implemented with Unreal Engine 5.'
 description: >-
-  3D, first person horror game implemented with Unreal Engine 5
+  3D, first person horror game implemented with Unreal Engine 5.
 image: >-
   https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_760/c_crop,h_399,w_760/v1681355454/Project/Isolation/portfoliogif2_ymgawf.gif
 optimized_image: >-
