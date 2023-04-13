@@ -22,7 +22,7 @@ author: mranderson
 paginate: true
 ---
 ![scrapnbattery1](https://res.cloudinary.com/dsu6ldumc/image/upload/v1680694175/Project/ScrapNBattery/ScrapNBattery1_szhxso.jpg)
-![scrapnbattery2](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif
+![scrapnbattery2](https://res.cloudinary.com/dsu6ldumc/image/upload/v1681235229/Project/ScrapNBattery/ezgif-2-959a5dacf1_uq9lim.gif)
 {% include youtube.html id="PRgN2j7IhcA" %}
 
 ### Description
