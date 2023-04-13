@@ -2,9 +2,9 @@
 date: 2020-07-31 23:48:05
 layout: post
 title: PooPooPiPe
-subtitle: '2D puzzle game implemented with custom engine'
+subtitle: '2D puzzle game implemented with custom engine.'
 description: >-
-  2D puzzle game prototype implemented with custom engine
+  2D puzzle game prototype implemented with custom engine.
 image: >-
   assets/img/off.jpg
 optimized_image: >-
