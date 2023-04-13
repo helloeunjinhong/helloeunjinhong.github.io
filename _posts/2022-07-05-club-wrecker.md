@@ -2,9 +2,9 @@
 date: 2022-07-05 23:48:05
 layout: post
 title: Club Wrecker
-subtitle: '2D, side scroller platforming game prototype implemented with Unity'
+subtitle: '2D, side scroller platforming game prototype implemented with Unity.'
 description: >-
-  2D, side scroller platforming game prototype implemented with Unity
+  2D, side scroller platforming game prototype implemented with Unity.
 image: >-
   https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_760/c_crop,h_399,w_760/v1681354694/Project/Isolation/portfoliogif1_gehlxs.gif
 optimized_image: >-
