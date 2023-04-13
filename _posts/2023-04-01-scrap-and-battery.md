@@ -27,7 +27,7 @@ paginate: true
 {% include youtube.html id="PRgN2j7IhcA" %}
 
 ### Description
-3D, third person run and gun game where the goal is to carry the main power source, a battery, to the end.
+**Scrap and Battery** is a 3D third person run and gun, side scroller game where the goal is to carry the main power source, a battery, to the end.
 
 ### Summary
 * **Role** :  AI Programmer & Art Lead 
