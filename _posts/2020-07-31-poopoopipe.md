@@ -4,7 +4,7 @@ layout: post
 title: PooPooPiPe
 subtitle: '2D puzzle game implemented with custom engine'
 description: >-
-  2D puzzle game prototype implemented with Unity
+  2D puzzle game prototype implemented with custom engine
 image: >-
   assets/img/off.jpg
 optimized_image: >-
