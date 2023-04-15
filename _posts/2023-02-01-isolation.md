@@ -28,7 +28,7 @@ paginate: true
 
 
 ### Description
-3D first person horror escaping game implemented with Unreal Engine 5
+**Isolation** is a 3D first person horror escaping game implemented with Unreal Engine 5, which is inspired by the online urban, *The Backrooms* series.
 
 ### Summary
 * **Role** :  Programmer
@@ -39,7 +39,13 @@ paginate: true
 
 
 ### About the Game
-
+It is a very simple game, which is a classic room-escape genre of horror. The environment shares same type of visual which makes the player feel that they are trapped in an infinite maze while the actual room is not that large. The key is hidden in a specific room, and it's their goal to find them to get out.
+Of course, finding a key and escaping the room is not an only thing. There is an *invisible* creature. The player can hear their footsteps, and so do they. When they detect the player presence, they will start to chase and attack you. The way player can locate the creature is using their flashlight, because even though the creature itself is invisible, it's shadow still appears. The player can detect their location by seeking their shadow through ceiling lamps or with their flashlights, but thinking that you need to be close enough to actually see their shadow, ceiling lamps will be a better and safer option.
 
 
 ### Work I've Done
+As this was a solo project, the development was by myself, and the visual assets for the environment are used by the asset store, made by *Blue Mountains* ([source](https://www.unrealengine.com/marketplace/ko/product/camcorder-the-backrooms))
+* Scripted and debugged player controls, among with camera and object interactions using C++ and blueprints.
+* Built finite-state machine used as an AI architecture for a single enemy, allowing strategic game play to the player, using blueprints and behavior trees.
+* Developed utility-based AI architecture among with enemy AI perspectives (sight and hearing), which increases the realisticity of enemy behaviors.
+* Implemented 3rd party assets and modify the scene to enhance the horror aspects.
