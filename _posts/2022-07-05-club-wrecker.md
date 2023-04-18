@@ -35,7 +35,8 @@ paginate: true
 
 
 ### About the Game
-This game's focus was to develop a two level, vision cones for patrolling AI, with a finite-state machine. The enemy has four types of states: *Patrol*, *Alert*, *Chase*, and *Confused*, which changes depending on player's position inside the enemy's vision cone. 
+This small project's focus was to develop a two level vision cones for patrolling AI, with a finite-state machine. The enemy has four types of states: *Patrol*, *Alert*, *Chase*, and *Confused*, Their state changes depending on player's location between and inside the vision cone from the enemies.
+For the vision cone, it detects the collision towards the walls and platforms using ray cast hit, therefore the vision cones don't get through the walls and give the player a chance to do strategic game play (for example, find a location where their vision cone doesn't reach, and hide until their state changes to *confused*.)
 
 
 ### Work I've Done
