@@ -40,3 +40,7 @@ For the vision cone, it detects the collision towards the walls and platforms us
 
 
 ### Work I've Done
+* Developed finite-state machines used as an AI architecture for enemies using C# in Unity Engine.
+* Implemented raycast detection of enemy AI visions allowing strategic gameplay for players to hide and avoid the detection.
+* Implemented and visualized enemy vision cones using Gizmoos
+* Created 3 levels to test enemy behaviors reacting on player's locations.
