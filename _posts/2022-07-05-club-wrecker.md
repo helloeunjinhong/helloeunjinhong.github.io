@@ -24,7 +24,7 @@ paginate: true
 ![clubwrecker1](https://res.cloudinary.com/dsu6ldumc/image/upload/c_scale,w_760/c_crop,h_399,w_760/v1681354694/Project/Isolation/portfoliogif1_gehlxs.gif)
 
 ### Description
-2D platforming game prototype with sight detectiosn AI, implemented with Unity.
+**Club Wrecker** is a 2D platforming game prototype with sight detectiosn AI, implemented with Unity.This is a prototype.
 
 ### Summary
 * **Role** :  Programmer
@@ -35,7 +35,7 @@ paginate: true
 
 
 ### About the Game
-
+This game's focus was to develop a two level, vision cones for patrolling AI, with a finite-state machine. The enemy has four types of states: *Patrol*, *Alert*, *Chase*, and *Confused*, which changes depending on player's position inside the enemy's vision cone. 
 
 
 ### Work I've Done
